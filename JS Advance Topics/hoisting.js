@@ -2,7 +2,7 @@
 
 //************   Hoisting ************ */
 
-//hoisting is nothing but irrespective of variable and func declartion hey are moved on the top of the scope the scope both local and global
+//hoisting is nothing but irrespective of variable and func declartion they are moved on the top of the scope the scope both local and global
 
 //Global scope
 num = 10;
